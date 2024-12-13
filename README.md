@@ -90,13 +90,3 @@ This project underscores the value of data analytics in understanding sales dyna
 ## Acknowledgments
 
 Special thanks to **Codebasics** for the tutorial that inspired the SQL queries used in this project.
-
----
-
-## Contact
-
-For any queries or collaboration opportunities, feel free to reach out:
-
-- **Email**: [oparagoodnews29@gmail.com]
-- **LinkedIn**: [[LinkedIn](https://linkedin.com/in/goodnews)]
-- **GitHub**: [[GitHub](https://github.com/goodnews)]
